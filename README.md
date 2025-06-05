@@ -1,6 +1,6 @@
 # Desafío 4: Creación de scripts de fútbol ⚽🎮
 
-<p>Juego creado como parte del curso Unity Learn. Implementé matemática de vectores, implementación de loops, SetActive, Trigger, entre otros.</p>
+<p>Juego creado como parte del curso Unity Learn. Implementé matemática de vectores, implementación de loops, SetActive, Trigger, recoger objetos, entre otros.</p>
 
 <p>🔧 Unity, C#, Time</p>
 <p>🎮 [Jugar en Unity Play](https://play.unity.com/en/games/0b6be5ea-3ddd-40a8-89de-1b0b71d2c5aa/desafio-4-futbol-by-laura)</p>
